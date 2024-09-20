@@ -1,0 +1,1 @@
+"A portfolio showcasing my full-stack development projects and skills."
